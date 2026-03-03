@@ -1,0 +1,50 @@
+{
+    "graphs": {
+        "DECONSTRUCTION": {
+            "1.1": "Assumption Extraction",
+            "1.2": "Analogy Filter & De-analogizing",
+            "1.3": "Atomic Truth Validation",
+            "1.4": "Fact-Tree Assembly"
+        },
+        "STRESS_TEST": {
+            "2.1": "Technical/Engineering 10x Audit",
+            "2.2": "Timing & Market Entry Window",
+            "2.3": "Monopoly & Share-of-Small-Market Audit",
+            "2.4": "Durability & Defensibility Check"
+        },
+        "BLUE_OCEAN": {
+            "3.1": "Industry Standard Mapping",
+            "3.2": "ERRC Grid Application",
+            "3.3": "Value Innovation Synthesis"
+        },
+        "TARGET_MAPPING": {
+            "4.1": "Future History (Press Release)",
+            "4.2": "Stakeholder FAQ & Objection Handling",
+            "4.3": "Technical Execution Spec"
+        },
+        "MASTER_SYNTHESIS": {
+            "5.1": "Trait Combination (Fast vs Durable)",
+            "5.2": "Conflict Resolution (Between Trajectories)",
+            "5.3": "Final Intelligence Output"
+        },
+        "SKILL_ACQUISITION": {
+            "6.1": "Knowledge Gap Analysis",
+            "6.2": "GitHub/Remote Repository Search",
+            "6.3": "Skill Extraction & Synthesis",
+            "6.4": "Virtual Context Loading"
+        },
+        "DYNAMIC_TOOLING": {
+            "7.1": "Tool Requirement Analysis",
+            "7.2": "Tool Parameter Drafting",
+            "7.3": "Execution & Output Capture",
+            "7.4": "Output Validation & Logic Integration"
+        }
+    },
+    "execution_rules": [
+        "Each sub-state must return success: true and a validation_hash.",
+        "If a sub-state flags a Logic Gap, recursion triggers back to the previous state.",
+        "Live Notes are passed between parallel Trajectories A and B during Master Synthesis.",
+        "Dynamic Skills acquired in 6.x must be unloaded after sub-task completion to minimize token bleed.",
+        "Dynamic Tooling in 7.x MUST prioritize safety and verify parameters against lessons.json constraints."
+    ]
+}

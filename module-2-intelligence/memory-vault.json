@@ -1,0 +1,24 @@
+{
+    "user_profile": {
+        "anti_patterns": [
+            "No infinite loops",
+            "No hallucinated optimism"
+        ],
+        "preferred_stacks": [
+            "Python",
+            "Markdown-first documentation"
+        ]
+    },
+    "project_history": [
+        {
+            "name": "Nucleus Module 1",
+            "core_decisions": [
+                "Implemented Tree of Thoughts",
+                "Implemented RRD Judge Bench"
+            ],
+            "failed_paths": [
+                "Direct linear reasoning without verification"
+            ]
+        }
+    ]
+}

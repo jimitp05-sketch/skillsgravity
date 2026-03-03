@@ -1,0 +1,10 @@
+# Core Intelligence Engine
+requests>=2.31.0
+dspy-ai>=2.4.0
+
+# OSINT Tools
+shodan>=1.31.0
+sherlock-project>=0.15.0
+
+# Utilities
+python-dotenv>=1.0.0

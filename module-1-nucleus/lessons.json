@@ -1,0 +1,30 @@
+{
+    "axioms": [
+        {
+            "id": "AXIOM_001",
+            "text": "Avoid analogy bias. All strategies must be deconstructed to First Principles to avoid 'Uber-for-X' failure modes.",
+            "category": "Reasoning"
+        },
+        {
+            "id": "AXIOM_002",
+            "text": "Verify First Principles before Expansion. Expansion without a grounded anchor leads to hallucinated logic.",
+            "category": "Reasoning"
+        },
+        {
+            "id": "AXIOM_003",
+            "text": "Flag semantic loops early. If refinement gain is <20%, pivot to a new trajectory.",
+            "category": "Guard"
+        },
+        {
+            "id": "AXIOM_004",
+            "text": "Monopolies start with a dominant share of a small, specific market (Thiel Principle).",
+            "category": "Strategy"
+        }
+    ],
+    "lessons": [],
+    "metadata": {
+        "version": "1.0.0",
+        "module": "anti-gravity-nucleus",
+        "description": "Industrial-grade persistence layer for strategic reasoning."
+    }
+}

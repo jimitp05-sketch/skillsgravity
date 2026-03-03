@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "pivot_point": "Pivot_0",
+      "data": "Intelligence extracted at level 0",
+      "timestamp": "2026-03-03T22:10:13.558189"
+    },
+    {
+      "pivot_point": "Pivot_1",
+      "data": "Intelligence extracted at level 1",
+      "timestamp": "2026-03-03T22:10:15.745073"
+    },
+    {
+      "pivot_point": "Pivot_2",
+      "data": "Intelligence extracted at level 2",
+      "timestamp": "2026-03-03T22:10:18.493695"
+    }
+  ]
+}
